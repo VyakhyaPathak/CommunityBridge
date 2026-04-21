@@ -1,0 +1,12 @@
+{
+  "name": "CommunityBridge",
+  "description": "An AI-powered volunteer and resource coordination platform for NGOs, featuring smart need analysis, heatmap visualization, and automated matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-powered resource matching",
+    "Real-time heatmap visualization",
+    "Volunteer management portal"
+  ]
+}
